@@ -5,7 +5,7 @@
   <artifactId>dictionary.service</artifactId>
   <version>0.0.1</version>
   <packaging>bundle</packaging>
-  <name>OSGi Declarative Services Annotations Example</name>
+  <name>Dictionary Service</name>
   <description>An example that uses declarative services annotations to provide a service</description>
   
   <build>
